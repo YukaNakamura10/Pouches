@@ -1,7 +1,4 @@
 [user]
-name = Yuka Nakamura
-email = yuflower26@icloud.com
-
-[includeIf "gitdir:~/Desktop/Repo/Pouches/"]
-path = ~/Desktop/Repo/Pouches/.gitconfig
+	name = Yuka Nakamura
+	email = yuflower26@icloud.com
 
